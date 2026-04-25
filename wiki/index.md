@@ -25,6 +25,9 @@
 - [[concepts/chengyu-semantic-domains]] - Maps major idiom semantic fields for fast topic matching.
 - [[concepts/chengyu-usage-strategy]] - Provides practical strategy for accurate idiom use in argumentative writing.
 
+### Game Trading Practice
+- [[concepts/menghuan-trade-routing-heuristics]] - Uses threshold pricing plus route bonus priority to make fast and repeatable trade-run decisions.
+
 ## Entities
 - [[entities/Cursor]] - AI-first IDE that discovers and runs skills from project/global skill paths.
 - [[entities/OpenSkills]] - CLI used to install, sync, and manage skill packs.
@@ -33,12 +36,14 @@
 - [[entities/Obsidian]] - Markdown knowledge IDE used for graph-based browsing and navigation.
 - [[entities/Obsidian Web Clipper]] - Browser capture tool that feeds new sources into `raw/`.
 - [[entities/成语词本]] - Structured idiom source used for semantic writing and expression training.
+- [[entities/梦幻西游]] - Game domain entity connecting trade-run pricing rules and route bonus strategy pages.
 
 ## Summaries
 - 2026-04-24 - [[summaries/cursor-skills-install-guide]] - Source summary of the Chinese Cursor Skills installation tutorial.
 - 2026-04-24 - [[summaries/llm-wiki-pattern]] - Karpathy's LLM wiki pattern and operating model.
 - 2026-04-24 - [[summaries/obsidian-llm-build-personal-kb]] - Practical Chinese walkthrough for full compile and incremental ingest workflows.
 - 2026-04-24 - [[summaries/chengyu-lexicon]] - Large semantic idiom lexicon for writing, argumentation, and exam-oriented expression.
+- 2026-04-25 - [[summaries/menghuan-trade-bonus]] - Practical trade-run cheat sheet with city-pair bonus rules and common buy-price thresholds.
 
 ## Open Questions
 - How should this wiki split into subfolders when concept pages exceed 1200 words?
