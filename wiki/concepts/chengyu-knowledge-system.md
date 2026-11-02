@@ -8,4 +8,4 @@
 
 该结构特别适用于申论、政务表达、评论写作和材料分析中的“同义替换 + 语气精准化”。
 
-相关页面：[[concepts/chengyu-usage-strategy]], [[concepts/chengyu-semantic-domains]], [[entities/成语词本]]
+相关页面：[[concepts/chengyu-usage-strategy]], [[concepts/chengyu-semantic-domains]], [[concepts/chengyu-error-review]], [[entities/成语词本]]

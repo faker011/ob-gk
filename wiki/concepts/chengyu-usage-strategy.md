@@ -17,4 +17,7 @@
 5. 少量高质量  
    申论中优先用“准确而克制”的词，不以堆叠华丽词汇为目标。
 
-相关页面：[[concepts/chengyu-semantic-domains]], [[summaries/chengyu-lexicon]]
+6. 错题回灌  
+   把模考/练习中的意思理解错误记入错题表，对照词本正释与易混词，再沉淀为“能用/不能用”规则。示例：「目无全牛」是技艺纯熟，不是目空一切或不见全局。详见 [[concepts/chengyu-error-review]]。
+
+相关页面：[[concepts/chengyu-semantic-domains]], [[concepts/chengyu-error-review]], [[summaries/chengyu-lexicon]], [[summaries/chengyu-wrong-answers]]

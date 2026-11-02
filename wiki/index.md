@@ -24,6 +24,7 @@
 - [[concepts/chengyu-knowledge-system]] - Organizes idioms by semantic intent for writing-time retrieval.
 - [[concepts/chengyu-semantic-domains]] - Maps major idiom semantic fields for fast topic matching.
 - [[concepts/chengyu-usage-strategy]] - Provides practical strategy for accurate idiom use in argumentative writing.
+- [[concepts/chengyu-error-review]] - Turns exam idiom mistakes into reusable correction rules and mix-up checks.
 
 ### Game Trading Practice
 - [[concepts/menghuan-trade-routing-heuristics]] - Uses threshold pricing plus route bonus priority to make fast and repeatable trade-run decisions.
@@ -44,8 +45,10 @@
 - 2026-04-24 - [[summaries/obsidian-llm-build-personal-kb]] - Practical Chinese walkthrough for full compile and incremental ingest workflows.
 - 2026-04-24 - [[summaries/chengyu-lexicon]] - Large semantic idiom lexicon for writing, argumentation, and exam-oriented expression.
 - 2026-04-25 - [[summaries/menghuan-trade-bonus]] - Practical trade-run cheat sheet with city-pair bonus rules and common buy-price thresholds.
+- 2026-11-02 - [[summaries/chengyu-wrong-answers]] - Incremental idiom wrong-answer log; first case corrects 目无全牛 meaning confusion.
 
 ## Open Questions
 - How should this wiki split into subfolders when concept pages exceed 1200 words?
 - Which additional raw sources should be ingested next (official Cursor docs, OpenSkills docs, forum best practices)?
 - Should we add a dedicated operations page for daily ingest/lint/audit cadence templates?
+- How should idiom wrong-answer types be taxonomized as the table grows beyond meaning-confusion cases?
